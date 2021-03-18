@@ -1,9 +1,8 @@
 # Utils
-Funções úteis para não esquecer!
-
-## Tabela de conteúdos
 <!--ts-->
    * [React](#react)
+      * [Converter dados em JSON e fazer download](#converter-dados-em-json-e-fazer-download)
+      * [Converter url de uma imagem em base64](#converter-url-de-uma-imagem-em-base64)
 <!--te-->
 
 ## React
