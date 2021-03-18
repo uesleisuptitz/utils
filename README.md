@@ -3,6 +3,7 @@
    * [React](#react)
       * [Converter dados em JSON e fazer download](#converter-dados-em-json-e-fazer-download)
       * [Converter url de uma imagem em base64](#converter-url-de-uma-imagem-em-base64)
+      * [Comparar dois objetos](#comparar-dois-objetos)
 <!--te-->
 
 ## React
@@ -35,3 +36,9 @@ function converterImagemEmBase64(urlDaImagemParaConverter, callbackRetornandoOBa
   img.src = urlDaImagemParaConverter;
 }
 ```
+### Comparar dois objetos
+```
+JSON.stringify(k1) === JSON.stringify(k2); // true
+```
+
+
